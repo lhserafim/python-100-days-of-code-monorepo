@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12edc3bf-7e67-469d-b204-3306999f54c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../day-26/list-comprehension/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/list-comprehension/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/list-comprehension/.idea/list-comprehension.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/list-comprehension/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/list-comprehension/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/list-comprehension/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/list-comprehension/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/list-comprehension/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/list-comprehension/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/nato-alphabet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/nato-alphabet/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/nato-alphabet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/nato-alphabet/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/nato-alphabet/.idea/nato-alphabet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/nato-alphabet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/nato-alphabet/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/nato-alphabet/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-26/nato-alphabet/nato_phonetic_alphabet.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/states_to_learn.csv" afterDir="false" />
+    <list default="true" id="67dfd193-8c6d-4e5b-93c4-1fbb2c88f095" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/list-comprehension.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list-comprehension/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list-comprehension/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list-comprehension/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nato-alphabet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-25/us-states-game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-25/us-states-game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-25/us-states-game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-25/us-states-game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-25/us-states-game/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-25/us-states-game/states_to_learn.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1sheulDLEnnqfURTaHkZ5oVXT1z" />
+  <component name="ProjectId" id="1skh6POWBCccw4SpBnFmQAycIiG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -44,11 +44,17 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="us-states-game" />
+      <module name="nato-alphabet" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -72,11 +78,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12edc3bf-7e67-469d-b204-3306999f54c1" name="Default Changelist" comment="" />
-      <created>1621329474977</created>
+      <changelist id="67dfd193-8c6d-4e5b-93c4-1fbb2c88f095" name="Default Changelist" comment="" />
+      <created>1621422319111</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1621329474977</updated>
+      <updated>1621422319111</updated>
     </task>
     <servers />
   </component>
@@ -90,7 +96,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
