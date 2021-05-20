@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67dfd193-8c6d-4e5b-93c4-1fbb2c88f095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/list-comprehension.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list-comprehension/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list-comprehension/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list-comprehension/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list-comprehension/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nato-alphabet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nato_phonetic_alphabet.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day-25/us-states-game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-25/us-states-game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day-25/us-states-game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-25/us-states-game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day-25/us-states-game/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-25/us-states-game/states_to_learn.csv" afterDir="false" />
-    </list>
+    <list default="true" id="67dfd193-8c6d-4e5b-93c4-1fbb2c88f095" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
