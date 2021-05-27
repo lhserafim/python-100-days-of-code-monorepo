@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12edc3bf-7e67-469d-b204-3306999f54c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/.idea/birthday-wisher.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/birthdays.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/dates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/letter_templates/letter_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/letter_templates/letter_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/letter_templates/letter_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/main_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher/motivational_quotes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="12edc3bf-7e67-469d-b204-3306999f54c1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
