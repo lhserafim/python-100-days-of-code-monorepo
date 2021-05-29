@@ -30,7 +30,7 @@ weather_data = response.json()
 # a[:stop]       # items from the beginning through stop-1
 # a[:]           # a copy of the whole array
 
-will_rain = False
+will_rain = True
 
 # print(weather_data["hourly"][0]["weather"][0])
 # Estou usando o slice para poder "fatiar" o Json e só pegar o que me interessa de informação
