@@ -6,7 +6,7 @@
 # Conditional Dictionary Comprehension template
 # new_dict = {new_key:new_value for (key,value) in dict.items() if test}
 
-#Dictionary Comprehension
+# Dictionary Comprehension
 import random
 names = ["Alex", "Beth", "Caroline", "Eleanor"]
 student_grades = {name: random.randint(1, 100) for name in names}
