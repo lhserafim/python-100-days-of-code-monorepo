@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+</head>
+<body>
+    num {{ num }}
+    {% if (num == 0) : %}
+        {% for blog_post in posts: %}
+            <h1>{{ blog_post["title"] }}</h1>
+            <h2>{{ blog_post["subtitle"] }}</h2>
+            <h3>{{ blog_post["body"] }}</h3>
+        {% endfor %}
+    {% else : %}
+        {% for blog_post in posts: %}
+            {% if blog_post["id"] == num: %}
+                <h1>{{ blog_post["title"] }}</h1>
+                <h2>{{ blog_post["subtitle"] }}</h2>
+                <h3>{{ blog_post["body"] }}</h3>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+</body>
+<footer>
+    <p>Copyright {{ year }}. Built by Luiz at Home.</p>
+</footer>
+</html>
